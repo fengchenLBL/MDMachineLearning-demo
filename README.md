@@ -18,7 +18,7 @@ Tensorflow 1.12.0
 N. Michaud-Agrawal, E. J. Denning, T. B. Woolf, and O. Beckstein. MDAnalysis: A Toolkit for the Analysis of Molecular Dynamics Simulations. J. Comput. Chem. 32 (2011), 2319-2327, doi:10.1002/jcc.21787. PMCID:PMC3144279 
 
 
-### Install:
+### Run on [Lawrencium Cluster](https://it.lbl.gov/service/scienceit/high-performance-computing/)
 * #### Create conda environment
 ```
 conda create -n MDMachineLearning python=3.6
